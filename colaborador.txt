@@ -1,0 +1,3 @@
+nombre del colaborador 
+fecha 
+practica de aprobación de PR
