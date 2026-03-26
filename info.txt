@@ -1,0 +1,8 @@
+Nombre del alumno: Zamudio Rojo Cesar Leonardo
+Fecha: 10 de marzo de 2026
+
+Objetivo de la actividad:
+Aprender a usar GitHub creando un repositorio, trabajando con ramas y realizando un Pull Request.
+
+¿Qué es un Pull Request?
+Un Pull Request es una solicitud para revisar y unir cambios de una rama a otra dentro de un repositorio en GitHub.
